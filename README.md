@@ -1,1 +1,2 @@
-# anomaly_detection
+# Spatio-temporal Patterns of Public Responses in an extreme rainfall event using big data
+Detected anomaly of time-series data using S-H-ESD. This method combines the STL time series decomposition technique and the extreme student deviation statistics to identify the response characteristics of traffic data and location requests during the event. The extreme rainfall event that occurred in Zhengzhou on July 20, 2021 is used as a case study to examine the method effectiveness. 
